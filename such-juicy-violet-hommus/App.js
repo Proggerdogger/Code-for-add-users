@@ -161,3 +161,6 @@ const styles = StyleSheet.create({
 
 // frog 
 
+// I actually did not eat a potato that was a lie
+
+// Changes in code good.
